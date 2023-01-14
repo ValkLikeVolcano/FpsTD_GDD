@@ -1,0 +1,1 @@
+Volumetric fog Volume with triggerbox. When the player enters, a warning is displayed on the HUD. if the player stays inside for 5 Seconds, they die.

@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "57cebafc2e419317",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cf5dc1da33d390f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e44388dc9156867",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "24a22b5e9e08e9bc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameStructure.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9872057becd67de5",
+    "type": "split",
+    "children": [
+      {
+        "id": "55362b7f40140f84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28be0b8acb49dcb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db0bf10beb632916",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2bcd3fcef9103a4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "35434ff7bff29d84",
+    "type": "split",
+    "children": [
+      {
+        "id": "729e5a45970421f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2ce93e0b15af9f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GameStructure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e4d94e4dbb3153c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GameStructure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb5a94c3b87a0fee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "86337bf10bc1063a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GameStructure.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "24a22b5e9e08e9bc",
+  "lastOpenFiles": [
+    "Mechanics/Vendor/Vendor.md",
+    "GameStructure.md",
+    "Mechanics/Towers/Plots.md",
+    "N1CsThoughtprocess.exe/Why Plots.md",
+    "Mechanics/Perks/Perks.md",
+    "Mechanics/Classes/Classes.md",
+    "Mechanics/Weapons/Weapons.md",
+    "Mechanics/Classes/New Class Concepts.md",
+    "Mechanics/Waves/Waves.md",
+    "Maps/Maps.md"
+  ]
+}
