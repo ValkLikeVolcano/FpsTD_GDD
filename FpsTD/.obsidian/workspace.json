@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GameStructure.md",
+                "file": "N1CsThoughtprocess.exe/Why Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GameStructure.md",
+                "file": "N1CsThoughtprocess.exe/Why Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GameStructure.md"
+                "file": "N1CsThoughtprocess.exe/Why Classes.md"
               }
             }
           }
@@ -161,17 +161,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "24a22b5e9e08e9bc",
+  "active": "28be0b8acb49dcb5",
   "lastOpenFiles": [
-    "Mechanics/Vendor/Vendor.md",
+    "Mechanics/Classes/Classes.md",
     "GameStructure.md",
+    "Mechanics/Towers/Generic Towers.md",
+    "Mechanics/Towers/Towers.md",
+    "Mechanics/Vendor/Vendor.md",
     "Mechanics/Towers/Plots.md",
     "N1CsThoughtprocess.exe/Why Plots.md",
     "Mechanics/Perks/Perks.md",
-    "Mechanics/Classes/Classes.md",
     "Mechanics/Weapons/Weapons.md",
-    "Mechanics/Classes/New Class Concepts.md",
-    "Mechanics/Waves/Waves.md",
-    "Maps/Maps.md"
+    "Mechanics/Classes/New Class Concepts.md"
   ]
 }
